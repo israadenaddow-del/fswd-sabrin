@@ -1,3 +1,4 @@
+ HEAD
 # Full Stack Web Development - fswd-sabrin
 
 ## About Me
@@ -9,3 +10,5 @@ This course provides comprehensive training in Full Stack Web Development, cover
 ## Repository Structure
 This repository is organized into 16 weekly folders to track all assignments, labs, and projects throughout the course:
 - `week-1` to `week-16`: Dedicated folders for weekly coursework, practical labs, and milestones.
+# fswd-sabirin.image.png
+ 6c313593fcbf73ac162b05a14d4246c6cdbd2c5a
